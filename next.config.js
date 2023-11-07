@@ -2,6 +2,12 @@ module.exports = {
   async redirects() {
     return [
         {
+          source: '/rsvp/startup',
+          destination: 'https://coda.io/form/AIS-Startup-Panel-RSVP-Form_dn01eqoJGES',
+          basePath: false,
+          permanent: true,
+        },
+        {
           source: '/member/attendance',
           destination: 'https://coda.io/form/AIS-Event-Attendance-Form_dVQqccTC16L',
           basePath: false,
