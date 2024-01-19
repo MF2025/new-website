@@ -18,6 +18,7 @@ interface TeamPageProps {
 }
 
 const spacing = 10;
+const x = 0;
 /**
  * A page that displays all officers in the organization.
  */
