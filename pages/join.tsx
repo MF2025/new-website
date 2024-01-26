@@ -83,7 +83,7 @@ export default function JoinPage() {
           <div className="">
             <a
               target="_blank"
-              href="/aim/mentor-apply"
+              href="/aim/mentor/apply"
               rel="noreferrer"
             >
               <button className="hover:shadow-lg border-ais-indigo border-2 bg-ais-indigo text-white font-bold py-2 rounded-lg text-xs w-20 2xl:w-28">
@@ -94,7 +94,7 @@ export default function JoinPage() {
           <div className="">
             <a
               target="_blank"
-              href="/aim/mentor-info"
+              href="/aim/mentor/info"
               rel="noreferrer"
             >
               <button className="hover:shadow-lg border-ais-indigo border-2 text-ais-indigo font-bold py-2 rounded-lg text-xs w-20 2xl:w-28">
